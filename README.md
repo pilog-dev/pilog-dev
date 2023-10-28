@@ -1,16 +1,30 @@
-### Hi there 👋
+<div>
+<img src="Profile.png" width="300" align="right" />
+<br/>
+<img src="Github.png" width="500" />
+<br/>
+<br/>
+  
+- Name **Pilog**
 
-<!--
-**pilog-dev/pilog-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Live in **Nord, France**
 
-Here are some ideas to get you started:
+- Good with **HTML** & **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Have experience with **Informatiques**
+
+- Understand French, & English
+<img src="Waifu.png" width="300" align="right" />
+<br/>
+<img src="Repo.png" width="500" />
+<br/>
+<br/>
+  
+- 📗 [***Pilog-dev/DisCoin***](https://github.com/Unknown-user-dev/OniStatusGame) <br/>
+  A Bot discord crypto for your server!
+
+<br/>
+<img src="banner.png" width="500" /><br/>
+  
+<sub> *“Any idiot can write code that a computer can understand. Good programmers write code that humans can understand.” – Pilog* </sub>
+</div>
