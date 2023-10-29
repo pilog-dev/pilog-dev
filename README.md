@@ -33,8 +33,8 @@ I'm currently studying Networking at Robespierre. Two years of College have pass
 </p>
 
 ## **🧋Cutie Counter**
-<a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Unknown-user-dev?theme=rule34"></a>
-<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"></a>
+<a href="https://discord.com/users/506755226116816896"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@pilog-dev?theme=rule34"></a>
+<a href="https://github.com/pilog-dev"><img align="left" width="100" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"></a>
 
 ```yaml
 People who visit my profile.
