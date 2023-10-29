@@ -14,7 +14,7 @@
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/pilog-dev"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/pilog-dev"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1140673594431643708/1168321464001380474/JD-18-512.png?ex=65515727&is=653ee227&hm=f13be49426bc2c525a4c7978638cc948593b2903823648b16f14c27ae3ae8868&"></a>
 I'm Pilog and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
@@ -34,22 +34,20 @@ I'm currently studying Networking at Robespierre. Two years of College have pass
 
 ## **🧋Cutie Counter**
 <a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Unknown-user-dev?theme=rule34"></a>
-<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"></a>
 
 ```yaml
-People who visit my profile :3.
+People who visit my profile.
 
-Hehe~ another cutie has been caught.
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [unknownuser.js](https://discord.com/users/921126770340683886)
+**Please Contact me on Discord for a quick response:** [pilog_](https://discord.com/users/506755226116816896)
 
 **You can also email me here:** contact@unknownandev.me
 
-[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/Unknown-user-dev)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/921126770340683886)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/unknownuserishere)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:contact@unknownandev.me)
-[![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/unknownishere)
+[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/pilog-dev)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/506755226116816896)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/pilog_)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:contact.pilogdev@gmail.com)
