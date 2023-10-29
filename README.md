@@ -1,30 +1,7 @@
-<div>
-<img src="Profile.png" width="300" align="right" />
-<br/>
-<img src="Github.png" width="500" />
-<br/>
-<br/>
-  
-- Name **Pilog**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pilog-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pilog-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pilog-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Live in **Nord, France**
-
-- Good with **HTML** & **CSS**
-
-- Have experience with **Code**
-
-- Understand French, & English
-<img src="Waifu.png" width="300" align="right" />
-<br/>
-<img src="Repo.png" width="500" />
-<br/>
-<br/>
-  
-- 📗 [***Pilog-dev/DisCoin***]() <br/>
-  A Bot discord about crypto information
-
-<br/>
-<img src="banner.png" width="500" /><br/>
-  
-<sub> *“Any idiot can write code that a computer can understand. Good programmers write code that humans can understand.” - Pilog</sub>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=pilog-dev&icon=0&color=0)](https://visitcount.itsvg.in)
