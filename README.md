@@ -5,17 +5,13 @@
 <br/>
 <br/>
   
-- Name **Unknown User**
+- Name **Pilog**
 
-- Live in **Avion, France**
-  
-- Student in **Robespierre, 1SN** 
+- Live in **Nord, France**
 
-- Studying [***Programmation And Network***](https://www.eccouncil.org/programs/certified-network-security-course/)
+- Good with **HTML** & **CSS**
 
-- Good with **Javascript** & **NodeJS**
-
-- Have experience with **Photoshop**
+- Have experience with **Code**
 
 - Understand French, & English
 <img src="Waifu.png" width="300" align="right" />
@@ -24,17 +20,11 @@
 <br/>
 <br/>
   
-- 📗 [***Unknown-user-dev/OniStatusGame***](https://github.com/Unknown-user-dev/OniStatusGame) <br/>
-  A Bot discord status for your server!
-- 📘 [***Unknown-user-dev/Uniria-UFW***](https://github.com/Unknown-user-dev/Uniria-UFW) <br/>
-  A Firewall config UFW for linux !
-- 📕 [***Unknown-user-dev/MinasoGen***](https://github.com/Unknown-user-dev/MinasoGen) <br/>
-  A Password Generator with Base64 !
-- 📙 [***Unknown-user-dev/Ascii-To-Hex***](https://github.com/Unknown-user-dev/Ascii-To-Hex) <br/>
-  A tool in python to learn Ascii To Hexa !
+- 📗 [***Pilog-dev/DisCoin***]() <br/>
+  A Bot discord about crypto information
 
 <br/>
 <img src="banner.png" width="500" /><br/>
   
-<sub> *“People with a lack of confidence are often people with a hard and strong mind.” – Unknown* </sub>
+<sub> *“Any idiot can write code that a computer can understand. Good programmers write code that humans can understand.” - Pilog</sub>
 </div>
