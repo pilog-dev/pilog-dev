@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="[https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png](https://cdn.discordapp.com/attachments/1168509960196464651/1168512664071323748/pxArt-1.png?ex=65520939&is=653f9439&hm=cd2f15d3adfd0ddd32565537b5384ad3902df75811675f5862dde0d6569e8cf6&)" />
+<img src="https://cdn.discordapp.com/attachments/1168509960196464651/1168512664071323748/pxArt-1.png?ex=65520939&is=653f9439&hm=cd2f15d3adfd0ddd32565537b5384ad3902df75811675f5862dde0d6569e8cf6&" />
 
 <p align="center">
  
