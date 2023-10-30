@@ -1,53 +1,73 @@
-<div align="center">
 
-</div>
-
-<div align="center">
-  <img src="standard (1).gif" />
-</div>
-
-<a href="https://discord.com/users/506755226116816896"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/506755226116816896?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
-
-
-### Hi!👋 I'm **`Pilog`** aka `Nell 💻`
-
-**Weeb Developer and Gamer** 
-
-## **☕ About me**
-<a href="https://github.com/pilog-dev"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1140673594431643708/1168321464001380474/JD-18-512.png?ex=65515727&is=653ee227&hm=f13be49426bc2c525a4c7978638cc948593b2903823648b16f14c27ae3ae8868&"></a>
-I'm Pilog and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
-<br><br>
-
-## **💻 Experience**
-<a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying Networking at Robespierre. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
-
-
-## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pilog-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilog-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
-
-## **🎧 Spotify**
+<!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31d6ak6em7ga3wm6xc5armwygvu4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31d6ak6em7ga3wm6xc5armwygvu4&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/31d6ak6em7ga3wm6xc5armwygvu4"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=31d6ak6em7ga3wm6xc5armwygvu4"></a>
+ 
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/pilog-dev/pilog-dev"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/pilog-dev"/>
+ <img src="https://badges.pufler.dev/commits/monthly/pilog-dev" />
+
 </p>
 
-## **🧋Cutie Counter**
-<a href="https://discord.com/users/506755226116816896"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@pilog-dev?theme=rule34"></a>
-<a href="https://github.com/pilog-dev"><img align="left" width="100" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"></a>
+<!-- <p align="center">
+  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+</p>   -->
 
-```yaml
-People who visit my profile.
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-```
-<!-- <br><br><br><br> -->
-## **📫 Contact**
-<a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [pilog_](https://discord.com/users/506755226116816896)
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
-**You can also email me here:** contact@unknownandev.me
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/pilog-dev)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/506755226116816896)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/pilog_)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:contact.pilogdev@gmail.com)
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: ritikpr307@gmail.com">
+ <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+</a>
+ <a href="https://twitter.com/ritikhere307">
+ <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+</a>
+</p>
+
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=pilog-dev&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pilog-dev&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=pilog-dev&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
