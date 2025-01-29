@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nell and I'm a businessman, from France !</h2>
+<h2 align="left">Hi 👋! My name is Nell and I'm a begginer developper, from France !</h2>
 
 ###
 
